@@ -1,5 +1,5 @@
 # Student-Performance
-对美国学生数据的spss分析报告
+对学生表现数据挖掘的spss分析报告
 数据来自:http://archive.ics.uci.edu/dataset/320/student+performance
 # 个人日志
 
